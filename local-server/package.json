@@ -1,0 +1,12 @@
+{
+  "name": "covidjs",
+  "version": "1.0.0",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "latest",
+    "express-redis-cache": "^1.1.3"
+  },
+  "scripts": {
+    "start": "node server.js"
+  }
+}
