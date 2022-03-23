@@ -1,4 +1,5 @@
-Cocid-jS is a web App used to classify covid-19 Patients from x-ray and ct-scans.
+## Covid-jS 
+is a web App used to classify covid-19 Patients from x-ray and ct-scans.
 
 This App uses tensorflowjs to load the model and get predictions and nodejs as server .
 
