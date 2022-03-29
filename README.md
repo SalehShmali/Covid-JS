@@ -1,7 +1,7 @@
 ## Covid-jS 
 web App used to classify covid-19 Patients from x-ray and ct-scans.
 
-This App uses tensorflowjs to load the model and get predictions and nodejs as server .
+This App uses tensorflowjs to load the model and get predictions from nodejs as server .
 
 I converted keras model with tensorflowjs-converter to use it on the browser.
 
